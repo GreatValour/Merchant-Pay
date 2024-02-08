@@ -11,95 +11,95 @@ File Name: C:\Downloaded Web Sites\merchantpayconnect.com\s\questrial\v18\QdVUST
 Content Type: font/ttf
 
 Uri: https://merchantpayconnect.com/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/about/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\about\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\about\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/contact-us/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\contact-us\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\contact-us\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/feed/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\feed\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\feed\index.html
 Content Type: application/rss+xml
 
 Uri: https://merchantpayconnect.com/no-fee-credit-card-service-for-municipalities/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\no-fee-credit-card-service-for-municipalities\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\no-fee-credit-card-service-for-municipalities\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/partner-programs/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/partner-programs/gateway-integrations/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\gateway-integrations\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\gateway-integrations\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/partner-programs/payment-facilitators/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\payment-facilitators\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\payment-facilitators\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/partner-programs/referral-partners/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\referral-partners\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\referral-partners\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/partner-programs/referral-partners/coursevector/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\referral-partners\coursevector\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\referral-partners\coursevector\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/partner-programs/web-link-application/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\web-link-application\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\partner-programs\web-link-application\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/accept-online-and-mobile-payments/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/accept-online-and-mobile-payments/mobile-payment-solutions/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\mobile-payment-solutions\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\mobile-payment-solutions\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/accept-online-and-mobile-payments/online-store-hosted-payments/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\online-store-hosted-payments\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\online-store-hosted-payments\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/accept-online-and-mobile-payments/re-occurring-billing-billing-and-invoicing/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\re-occurring-billing-billing-and-invoicing\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\re-occurring-billing-billing-and-invoicing\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/accept-online-and-mobile-payments/surcharge-solutions/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\surcharge-solutions\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\accept-online-and-mobile-payments\surcharge-solutions\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/https-merchantpayconnect-com-services/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\https-merchantpayconnect-com-services\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\https-merchantpayconnect-com-services\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/smart-terminals/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\smart-terminals\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\smart-terminals\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/surcharge-solutions/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\surcharge-solutions\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\surcharge-solutions\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/tablet-ipad-solutions/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\tablet-ipad-solutions\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\tablet-ipad-solutions\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/terminals-and-wireless-terminals/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\terminals-and-wireless-terminals\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\terminals-and-wireless-terminals\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/services/veloce-liquor-control/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\veloce-liquor-control\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\services\veloce-liquor-control\index.html
 Content Type: text/html
 
 Uri: https://merchantpayconnect.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=3.1.5
@@ -551,7 +551,7 @@ File Name: C:\Downloaded Web Sites\merchantpayconnect.com\wp-includes\js\jquery\
 Content Type: application/javascript
 
 Uri: https://merchantpayconnect.com/wp-json/
-File Name: C:\Downloaded Web Sites\merchantpayconnect.com\wp-json\index.htm
+File Name: C:\Downloaded Web Sites\merchantpayconnect.com\wp-json\index.html
 Content Type: application/json
 
 Uri: https://merchantpayconnect.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmerchantpayconnect.com%2F
